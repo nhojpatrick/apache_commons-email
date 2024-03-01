@@ -85,7 +85,7 @@
     <commons.bc.version>1.5</commons.bc.version>
     <!-- override the default commons encoding property -->
     <commons.encoding>UTF-8</commons.encoding>
-    <mockito-core.version>5.10.0</mockito-core.version>
+    <mockito-core.version>5.11.0</mockito-core.version>
     <japicmp.skip>true</japicmp.skip>
     <project.build.outputTimestamp>2024-01-01T00:00:00Z</project.build.outputTimestamp>
   </properties>
